@@ -9,6 +9,8 @@ C2X-HTTP-Client-Py is client of [C2X-HTTP](https://github.com/nxenon/c2x-http) (
 
 Run
 ----
+    You have to have requests python library installed on target:
+    pip3 install -r requirements.txt
     First you should put server IP and server remote port and protocol on source code:
     in lines 151 & 152 & 153
     then run the code:
